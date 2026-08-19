@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://josianesantospsi.netlify.app/sitemap.xml
